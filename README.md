@@ -42,13 +42,15 @@ This artefact visualises the regulatory landscape across four frameworks:
 ```bash
 # 1. Clone the repository
 git clone https://github.com/your-username/ai-regulatory-graph.git
-cd ai-regulatory-graph
+cd AI_Phishing_Email_Security_Portfolio_Report
+
 
 # 2. Install dependencies
 pip install -r requirements.txt
 
 # 3. Launch Jupyter
-jupyter notebook AI_Regulatory_Graph_Artefact.ipynb
+jupyter notebook AI_Phishing_Email_Security_Portfolio_Report
+.ipynb
 ```
 
 ---
