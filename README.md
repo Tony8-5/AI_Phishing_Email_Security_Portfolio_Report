@@ -1,4 +1,4 @@
-# 🏛️ AI Regulatory Compliance — Relational Graph Automation Artefact
+# AI Regulatory Compliance — Relational Graph Automation Artefact
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
@@ -7,7 +7,7 @@ An interactive, touch-friendly knowledge graph that maps relationships between m
 
 ---
 
-## 📋 Overview
+## Overview
 
 This artefact visualises the regulatory landscape across four frameworks:
 
@@ -22,13 +22,13 @@ This artefact visualises the regulatory landscape across four frameworks:
 
 ### Use Cases Covered
 
-- 🔒 **AI Phishing & Email Security System**
-- 💳 **AI-Driven Bank Transaction Fraud Monitoring**
-- 🌍 **EU AI Act High-Risk Provider Requirements**
+ **AI Phishing & Email Security System**
+ **AI-Driven Bank Transaction Fraud Monitoring**
+ **EU AI Act High-Risk Provider Requirements**
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Option A — Google Colab (Recommended)
 
@@ -54,7 +54,7 @@ jupyter notebook AI_Phishing_Email_Security_Portfolio_Report
 
 ---
 
-## 🗂️ Notebook Structure
+## Notebook Structure
 
 | Step | Description |
 |---|---|
@@ -69,7 +69,7 @@ jupyter notebook AI_Phishing_Email_Security_Portfolio_Report
 
 ---
 
-## 📊 Interactive Graph Features
+## Interactive Graph Features
 
 - **Click any node** to read its details in the sidebar
 - **Drag nodes** to reposition — touch and mouse both supported
@@ -78,7 +78,7 @@ jupyter notebook AI_Phishing_Email_Security_Portfolio_Report
 
 ---
 
-## 📤 Exported Artefacts
+## Exported Artefacts
 
 Running Step 8 generates the following files:
 
@@ -92,7 +92,7 @@ Running Step 8 generates the following files:
 
 ---
 
-## 🔑 Key Compliance Insights
+## Key Compliance Insights
 
 1. **EU AI Act Art 16** is the highest-centrality node — it is the gateway to all provider obligations and connects to all Chapter 2 articles.
 2. **UK GDPR Art 22** is the critical data-protection pinch-point for both AI systems deployed in employment and financial contexts.
@@ -102,7 +102,7 @@ Running Step 8 generates the following files:
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 See [`requirements.txt`](./requirements.txt) for the full list. Key packages:
 
@@ -113,7 +113,7 @@ See [`requirements.txt`](./requirements.txt) for the full list. Key packages:
 
 ---
 
-## 📚 References
+## References
 
 - EU AI Act (Regulation 2024/1689)
 - UK General Data Protection Regulation (UK GDPR)
