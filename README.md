@@ -41,7 +41,7 @@ This artefact visualises the regulatory landscape across four frameworks:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/ai-regulatory-graph.git
+git clone [https://github.com/your-username/ai-regulatory-graph.git](https://github.com/Tony8-5/AI_Phishing_Email_Security_Portfolio_Report)
 cd AI_Phishing_Email_Security_Portfolio_Report
 
 
