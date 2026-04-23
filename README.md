@@ -1,8 +1,7 @@
 # 🏛️ AI Regulatory Compliance — Relational Graph Automation Artefact
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 An interactive, touch-friendly knowledge graph that maps relationships between major AI regulatory frameworks and real-world compliance artefacts. Built as a Jupyter Notebook, it is designed to run in Google Colab or any local Jupyter environment.
 
